@@ -1,0 +1,210 @@
+Llama:
+
+Processed row 0: gt=1, runs=[1, 1, 1], vote=1
+Processed row 1: gt=0, runs=[1, 1, 1], vote=1
+Processed row 2: gt=0, runs=[1, 1, 1], vote=1
+Processed row 3: gt=0, runs=[1, 1, 1], vote=1
+Processed row 4: gt=0, runs=[1, 1, 1], vote=1
+Processed row 5: gt=0, runs=[0, 0, 0], vote=0
+Processed row 6: gt=1, runs=[1, 1, 1], vote=1
+Processed row 7: gt=0, runs=[1, 1, 1], vote=1
+Processed row 8: gt=0, runs=[1, 1, 0], vote=1
+Processed row 9: gt=1, runs=[1, 0, 1], vote=1
+Processed row 10: gt=0, runs=[1, 1, 1], vote=1
+Processed row 11: gt=1, runs=[1, 1, 1], vote=1
+Processed row 12: gt=1, runs=[1, 1, 1], vote=1
+Processed row 13: gt=0, runs=[1, 1, 1], vote=1
+Processed row 14: gt=0, runs=[1, 1, 1], vote=1
+Processed row 15: gt=0, runs=[1, 1, 1], vote=1
+Processed row 16: gt=0, runs=[1, 1, 1], vote=1
+Processed row 17: gt=1, runs=[1, 1, 1], vote=1
+Processed row 18: gt=1, runs=[1, 1, 1], vote=1
+Processed row 19: gt=0, runs=[0, 0, 0], vote=0
+Processed row 20: gt=0, runs=[1, 1, 1], vote=1
+Processed row 21: gt=1, runs=[1, 1, 1], vote=1
+Processed row 22: gt=1, runs=[1, 1, 1], vote=1
+Processed row 23: gt=1, runs=[0, 0, 0], vote=0
+Processed row 24: gt=1, runs=[1, 1, 1], vote=1
+Processed row 25: gt=0, runs=[1, 1, 1], vote=1
+Processed row 26: gt=1, runs=[1, 1, 1], vote=1
+Processed row 27: gt=0, runs=[1, 1, 1], vote=1
+Processed row 28: gt=0, runs=[0, 0, 0], vote=0
+Processed row 29: gt=0, runs=[1, 1, 1], vote=1
+Processed row 30: gt=1, runs=[1, 1, 1], vote=1
+Processed row 31: gt=0, runs=[1, 1, 1], vote=1
+Processed row 32: gt=1, runs=[1, 1, 1], vote=1
+Processed row 33: gt=1, runs=[1, 1, 1], vote=1
+Processed row 34: gt=0, runs=[1, 1, 1], vote=1
+Processed row 35: gt=1, runs=[1, 1, 1], vote=1
+Processed row 36: gt=1, runs=[1, 1, 1], vote=1
+Processed row 37: gt=0, runs=[1, 1, 1], vote=1
+Processed row 38: gt=0, runs=[1, 1, 1], vote=1
+Processed row 39: gt=0, runs=[1, 1, 1], vote=1
+Processed row 40: gt=0, runs=[1, 1, 1], vote=1
+Processed row 41: gt=1, runs=[0, 1, 0], vote=0
+Processed row 42: gt=0, runs=[1, 1, 1], vote=1
+Processed row 43: gt=0, runs=[1, 1, 1], vote=1
+Processed row 44: gt=1, runs=[1, 1, 1], vote=1
+Processed row 45: gt=0, runs=[1, 1, 1], vote=1
+Processed row 46: gt=0, runs=[0, 0, 1], vote=0
+Processed row 47: gt=0, runs=[1, 1, 1], vote=1
+Processed row 48: gt=0, runs=[1, 1, 1], vote=1
+Processed row 49: gt=0, runs=[1, 1, 1], vote=1
+Processed row 50: gt=0, runs=[0, 0, 0], vote=0
+Processed row 51: gt=1, runs=[1, 1, 1], vote=1
+Processed row 52: gt=0, runs=[1, 1, 1], vote=1
+Processed row 53: gt=0, runs=[1, 1, 1], vote=1
+Processed row 54: gt=0, runs=[1, 1, 1], vote=1
+Processed row 55: gt=1, runs=[1, 1, 1], vote=1
+Processed row 56: gt=0, runs=[1, 1, 1], vote=1
+Processed row 57: gt=1, runs=[1, 1, 1], vote=1
+Processed row 58: gt=1, runs=[1, 1, 1], vote=1
+Processed row 59: gt=1, runs=[1, 1, 1], vote=1
+Processed row 60: gt=0, runs=[1, 1, 1], vote=1
+Processed row 61: gt=0, runs=[1, 1, 1], vote=1
+Processed row 62: gt=1, runs=[1, 1, 1], vote=1
+Processed row 63: gt=0, runs=[1, 1, 1], vote=1
+Processed row 64: gt=0, runs=[1, 1, 1], vote=1
+Processed row 65: gt=1, runs=[1, 1, 1], vote=1
+Processed row 66: gt=1, runs=[1, 1, 1], vote=1
+Processed row 67: gt=1, runs=[1, 1, 1], vote=1
+Processed row 68: gt=0, runs=[1, 1, 1], vote=1
+Processed row 69: gt=0, runs=[1, 1, 1], vote=1
+Processed row 70: gt=0, runs=[1, 1, 1], vote=1
+Processed row 71: gt=0, runs=[1, 1, 1], vote=1
+Processed row 72: gt=1, runs=[1, 1, 1], vote=1
+Processed row 73: gt=0, runs=[1, 1, 1], vote=1
+Processed row 74: gt=0, runs=[1, 1, 1], vote=1
+Processed row 75: gt=1, runs=[1, 1, 1], vote=1
+Processed row 76: gt=0, runs=[1, 1, 1], vote=1
+Processed row 77: gt=1, runs=[1, 1, 1], vote=1
+Processed row 78: gt=0, runs=[1, 1, 1], vote=1
+Processed row 79: gt=0, runs=[1, 1, 1], vote=1
+Processed row 80: gt=0, runs=[1, 1, 1], vote=1
+Processed row 81: gt=0, runs=[1, 1, 1], vote=1
+Processed row 82: gt=1, runs=[1, 1, 1], vote=1
+Processed row 83: gt=0, runs=[1, 1, 1], vote=1
+Processed row 84: gt=1, runs=[1, 1, 1], vote=1
+Processed row 85: gt=0, runs=[1, 1, 1], vote=1
+Processed row 86: gt=0, runs=[1, 1, 1], vote=1
+Processed row 87: gt=1, runs=[1, 1, 1], vote=1
+Processed row 88: gt=0, runs=[1, 1, 1], vote=1
+Processed row 89: gt=0, runs=[1, 1, 1], vote=1
+Processed row 90: gt=0, runs=[1, 1, 1], vote=1
+Processed row 91: gt=0, runs=[1, 1, 1], vote=1
+Processed row 92: gt=0, runs=[1, 0, 1], vote=1
+Processed row 93: gt=0, runs=[1, 1, 1], vote=1
+Processed row 94: gt=0, runs=[0, 0, 0], vote=0
+Processed row 95: gt=1, runs=[0, 0, 0], vote=0
+Processed row 96: gt=0, runs=[1, 1, 1], vote=1
+Processed row 97: gt=0, runs=[1, 1, 1], vote=1
+Processed row 98: gt=1, runs=[0, 0, 0], vote=0
+Processed row 99: gt=0, runs=[1, 1, 1], vote=1
+
+
+
+
+PHI:
+
+Row 0: gt=1 | preds=[0, 0, 0] | majority=0
+Row 1: gt=0 | preds=[0, 0, 0] | majority=0
+Row 2: gt=0 | preds=[0, 0, 0] | majority=0
+Row 3: gt=0 | preds=[0, 0, 0] | majority=0
+Row 4: gt=0 | preds=[0, 0, 0] | majority=0
+Row 5: gt=0 | preds=[0, 0, 0] | majority=0
+Row 6: gt=1 | preds=[0, 0, 0] | majority=0
+Row 7: gt=0 | preds=[0, 0, 0] | majority=0
+Row 8: gt=0 | preds=[0, 0, 0] | majority=0
+Row 9: gt=1 | preds=[0, 0, 0] | majority=0
+Row 10: gt=0 | preds=[0, 0, 0] | majority=0
+Row 11: gt=1 | preds=[0, 0, 0] | majority=0
+Row 12: gt=1 | preds=[0, 0, 0] | majority=0
+Row 13: gt=0 | preds=[0, 0, 0] | majority=0
+Row 14: gt=0 | preds=[0, 0, 0] | majority=0
+Row 15: gt=0 | preds=[0, 0, 0] | majority=0
+Row 16: gt=0 | preds=[0, 0, 0] | majority=0
+Row 17: gt=1 | preds=[0, 0, 0] | majority=0
+Row 18: gt=1 | preds=[0, 0, 0] | majority=0
+Row 19: gt=0 | preds=[0, 0, 0] | majority=0
+Row 20: gt=0 | preds=[0, 0, 0] | majority=0
+Row 21: gt=1 | preds=[0, 0, 0] | majority=0
+Row 22: gt=1 | preds=[0, 0, 0] | majority=0
+Row 23: gt=1 | preds=[0, 0, 0] | majority=0
+Row 24: gt=1 | preds=[0, 0, 0] | majority=0
+Row 25: gt=0 | preds=[0, 0, 0] | majority=0
+Row 26: gt=1 | preds=[0, 0, 0] | majority=0
+Row 27: gt=0 | preds=[0, 0, 0] | majority=0
+Row 28: gt=0 | preds=[0, 0, 0] | majority=0
+Row 29: gt=0 | preds=[0, 0, 0] | majority=0
+Row 30: gt=1 | preds=[0, 0, 0] | majority=0
+Row 31: gt=0 | preds=[0, 0, 0] | majority=0
+Row 32: gt=1 | preds=[0, 0, 0] | majority=0
+Row 33: gt=1 | preds=[0, 0, 0] | majority=0
+Row 34: gt=0 | preds=[0, 0, 0] | majority=0
+Row 35: gt=1 | preds=[0, 0, 0] | majority=0
+Row 36: gt=1 | preds=[0, 0, 0] | majority=0
+Row 37: gt=0 | preds=[0, 0, 0] | majority=0
+Row 38: gt=0 | preds=[0, 0, 0] | majority=0
+Row 39: gt=0 | preds=[0, 0, 0] | majority=0
+Row 40: gt=0 | preds=[0, 0, 0] | majority=0
+Row 41: gt=1 | preds=[0, 0, 0] | majority=0
+Row 42: gt=0 | preds=[0, 0, 0] | majority=0
+Row 43: gt=0 | preds=[0, 0, 0] | majority=0
+Row 44: gt=1 | preds=[0, 0, 0] | majority=0
+Row 45: gt=0 | preds=[0, 0, 0] | majority=0
+Row 46: gt=0 | preds=[0, 0, 0] | majority=0
+Row 47: gt=0 | preds=[0, 0, 0] | majority=0
+Row 48: gt=0 | preds=[0, 0, 0] | majority=0
+Row 49: gt=0 | preds=[0, 0, 0] | majority=0
+Row 50: gt=0 | preds=[0, 0, 0] | majority=0
+Row 51: gt=1 | preds=[1, 1, 1] | majority=1
+Row 52: gt=0 | preds=[0, 0, 0] | majority=0
+Row 53: gt=0 | preds=[0, 0, 0] | majority=0
+Row 54: gt=0 | preds=[0, 0, 0] | majority=0
+Row 55: gt=1 | preds=[0, 0, 0] | majority=0
+Row 56: gt=0 | preds=[0, 0, 0] | majority=0
+Row 57: gt=1 | preds=[0, 0, 0] | majority=0
+Row 58: gt=1 | preds=[0, 0, 0] | majority=0
+Row 59: gt=1 | preds=[0, 0, 0] | majority=0
+Row 60: gt=0 | preds=[0, 0, 0] | majority=0
+Row 61: gt=0 | preds=[0, 0, 0] | majority=0
+Row 62: gt=1 | preds=[0, 0, 0] | majority=0
+Row 63: gt=0 | preds=[0, 0, 0] | majority=0
+Row 64: gt=0 | preds=[0, 0, 0] | majority=0
+Row 65: gt=1 | preds=[0, 0, 0] | majority=0
+Row 66: gt=1 | preds=[0, 0, 0] | majority=0
+Row 67: gt=1 | preds=[0, 0, 0] | majority=0
+Row 68: gt=0 | preds=[0, 0, 0] | majority=0
+Row 69: gt=0 | preds=[0, 0, 0] | majority=0
+Row 70: gt=0 | preds=[0, 0, 0] | majority=0
+Row 71: gt=0 | preds=[0, 0, 0] | majority=0
+Row 72: gt=1 | preds=[0, 0, 0] | majority=0
+Row 73: gt=0 | preds=[0, 0, 0] | majority=0
+Row 74: gt=0 | preds=[0, 0, 0] | majority=0
+Row 75: gt=1 | preds=[0, 0, 0] | majority=0
+Row 76: gt=0 | preds=[0, 0, 0] | majority=0
+Row 77: gt=1 | preds=[0, 0, 0] | majority=0
+Row 78: gt=0 | preds=[0, 0, 0] | majority=0
+Row 79: gt=0 | preds=[0, 0, 0] | majority=0
+Row 80: gt=0 | preds=[0, 0, 0] | majority=0
+Row 81: gt=0 | preds=[0, 0, 0] | majority=0
+Row 82: gt=1 | preds=[0, 0, 0] | majority=0
+Row 83: gt=0 | preds=[0, 0, 0] | majority=0
+Row 84: gt=1 | preds=[0, 0, 0] | majority=0
+Row 85: gt=0 | preds=[0, 0, 0] | majority=0
+Row 86: gt=0 | preds=[0, 0, 0] | majority=0
+Row 87: gt=1 | preds=[0, 0, 0] | majority=0
+Row 88: gt=0 | preds=[0, 0, 0] | majority=0
+Row 89: gt=0 | preds=[0, 0, 0] | majority=0
+Row 90: gt=0 | preds=[0, 0, 0] | majority=0
+Row 91: gt=0 | preds=[0, 0, 0] | majority=0
+Row 92: gt=0 | preds=[0, 0, 0] | majority=0
+Row 93: gt=0 | preds=[0, 0, 0] | majority=0
+Row 94: gt=0 | preds=[0, 0, 0] | majority=0
+Row 95: gt=1 | preds=[0, 0, 0] | majority=0
+Row 96: gt=0 | preds=[0, 0, 0] | majority=0
+Row 97: gt=0 | preds=[0, 0, 0] | majority=0
+Row 98: gt=1 | preds=[0, 0, 0] | majority=0
+Row 99: gt=0 | preds=[0, 0, 0] | majority=0
+
+

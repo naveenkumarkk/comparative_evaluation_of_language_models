@@ -1,0 +1,35 @@
+Run 1 label counts:
+{0: 71, 1: 29}
+Run 1 errors: 0
+
+Run 2 label counts:
+{0: 71, 1: 29}
+Run 2 errors: 0
+
+Run 3 label counts:
+{0: 71, 1: 29}
+Run 3 errors: 0
+
+=== Run 1 ===
+coverage: 1.0000
+accuracy: 0.5300
+f1: 0.2769
+precision: 0.3103
+recall: 0.2500
+kappa: -0.0653
+
+=== Run 2 ===
+coverage: 1.0000
+accuracy: 0.5300
+f1: 0.2769
+precision: 0.3103
+recall: 0.2500
+kappa: -0.0653
+
+=== Run 3 ===
+coverage: 1.0000
+accuracy: 0.5300
+f1: 0.2769
+precision: 0.3103
+recall: 0.2500
+kappa: -0.0653
