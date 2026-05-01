@@ -1,0 +1,4 @@
+nli_model,acc,f1,balanced_acc,precision,recall,threshold,template,aggregator,alpha
+roberta-large-mnli,0.71,0.6667,0.7309,0.5686,0.8056,0.67,about,geometric,0.7
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,0.75,0.6753,0.7439,0.6341,0.7222,0.65,mentions,min,0.5
+tasksource/ModernBERT-large-nli,0.76,0.6667,0.7396,0.6667,0.6667,0.72,mentions,mean,0.9

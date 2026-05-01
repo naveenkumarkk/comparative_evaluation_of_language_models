@@ -1,0 +1,3 @@
+baseline_similarity,threshold,accuracy,f1,tn,fp,fn,tp,dataset
+combined_similarity,0.27,0.66,0.5785123966942148,128,35,67,70,300_GT.csv
+combined_similarity,0.99,0.64,0.0,64,0,36,0,100_GT.csv

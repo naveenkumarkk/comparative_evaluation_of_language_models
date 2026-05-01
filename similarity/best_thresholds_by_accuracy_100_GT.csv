@@ -1,0 +1,4 @@
+similarity_type,best_threshold,best_accuracy,best_f1,tn,fp,fn,tp
+feature_similarity,0.61,0.68,0.2727272727272727,62,2,30,6
+review_similarity,1.0,0.55,0.0,55,9,36,0
+combined_similarity,0.99,0.64,0.0,64,0,36,0

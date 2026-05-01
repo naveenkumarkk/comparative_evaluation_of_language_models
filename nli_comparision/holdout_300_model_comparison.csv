@@ -1,0 +1,4 @@
+nli_model,holdout_csv,threshold,acc,f1,balanced_acc,precision,recall,TP,TN,FP,FN
+roberta-large-mnli,300_GT.csv,0.67,0.6933,0.7125,0.7044,0.623,0.8321,114,94,69,23
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,300_GT.csv,0.65,0.7067,0.6944,0.7085,0.6623,0.7299,100,112,51,37
+tasksource/ModernBERT-large-nli,300_GT.csv,0.72,0.72,0.6957,0.7185,0.6906,0.7007,96,120,43,41
